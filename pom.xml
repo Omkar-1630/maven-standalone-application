@@ -41,7 +41,7 @@
 	<repositories>
              <repository>
                  <id>nexus</id>
-                 <url>http://13.201.127.212:8081/repository/proxy-repo-devops/</url>
+                 <url>http://13.232.206.148:8081/repository/proxy-repo-devops/</url>
         </repository>
     </repositories>
 	
